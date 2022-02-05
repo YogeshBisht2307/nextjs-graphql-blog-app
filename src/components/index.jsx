@@ -3,7 +3,8 @@ export { default as Footer } from './Layout/Footer';
 export { default as Layout } from './Layout/Layout';
 export { default as Loader } from './Layout/Loader';
 
-export { default as FeaturedPostCard } from './Post/FeaturedPostCard';
+export { default as FeaturedPosts } from './FeaturedPost/FeaturedPost';
+export { default as FeaturedPostCard } from './FeaturedPost/FeaturedPostCard';
 export { default as AdjacentPostCard } from './Post/AdjacentPostCard';
 export { default as PostCard } from './Post/PostCard';
 export { default as PostDetail } from './Post/PostDetail';
